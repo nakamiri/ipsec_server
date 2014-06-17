@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/master/!svn/ver/49/ipsec/ipsec_server/src/ipsec
+END
+HashPayload.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/master/!svn/ver/19/ipsec/ipsec_server/src/ipsec/HashPayload.java
+END
+NoncePayload.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/master/!svn/ver/49/ipsec/ipsec_server/src/ipsec/NoncePayload.java
+END
+ServerMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/master/!svn/ver/41/ipsec/ipsec_server/src/ipsec/ServerMain.java
+END
+IsakmpServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/master/!svn/ver/41/ipsec/ipsec_server/src/ipsec/IsakmpServer.java
+END
+IsakmpHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/master/!svn/ver/16/ipsec/ipsec_server/src/ipsec/IsakmpHeader.java
+END
